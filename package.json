@@ -1,0 +1,12 @@
+{
+  "name": "@gar/bin-test-one",
+  "version": "1.0.0",
+  "description": "A scoped package with a bin entry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gar <gar+npm@danger.computer>",
+  "license": "ISC",
+  "bin": "one.sh"
+}
